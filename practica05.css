@@ -6,3 +6,6 @@ figure{
     display: inline-block;
             text-align: center;
 }
+.redonda{
+    border-radius: 15px 60px 90px;
+}
