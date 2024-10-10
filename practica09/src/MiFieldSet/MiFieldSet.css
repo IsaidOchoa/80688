@@ -1,0 +1,14 @@
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+input{
+    width: 100%;
+    height: 1.5rem;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    background-color: aqua;
+    height: 3rem;
+}
+
